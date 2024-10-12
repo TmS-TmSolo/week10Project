@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+    margin-left: 5%;
+    margin-right: 5%;
+}   
+tbody td {
+    font-style: italic;
+}
+
+tbody td:hover {
+    background-color: darkgray;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+form {
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 80%
+    
+}
